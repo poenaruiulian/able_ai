@@ -4,7 +4,7 @@ import openai
 from utils.get_prompt import get_prompt
 
 
-def get_chatgpt_response(user_message: str, datasets, user_location) -> str:
+def get_chatgpt_response(user_message: str, datasets, user_location, history) -> str:
 
 
     # Combine the entire datasets into a single context string
@@ -14,7 +14,7 @@ def get_chatgpt_response(user_message: str, datasets, user_location) -> str:
         model="o1",
         messages=[
             {"role": "system", "content": "Ești un asistent pentru persoane cu dizabilități locomotorii care va incerca sa se gandeasca la cele mai bune raspunsuri pentru el."},
-            {"role": "user", "content": get_prompt(user_message, user_location, data_context)},
+            {"role": "user", "content": get_prompt(user_message, user_location, data_context, history)},
         ]
     )
     return response.choices[0].message.content

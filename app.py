@@ -64,8 +64,10 @@ if user_message:
     st.session_state["chat_history"].append({"role": "user", "content": user_message})
     st.chat_message("user").write(user_message)
 
+    print(st.session_state["chat_history"])
+
     with st.spinner("Se generează răspunsul..."):
-        response = get_chatgpt_response(user_message, datasets, location_data)
+        response = get_chatgpt_response(user_message, datasets, location_data, st.session_state["chat_history"])
     st.session_state["chat_history"].append({"role": "assistant", "content": response})
     st.chat_message("assistant").write(response)
     st.rerun()
