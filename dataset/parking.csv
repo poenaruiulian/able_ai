@@ -1,0 +1,31 @@
+Nume_Parcare;Adresă;Latitudine;Longitudine;Altitudine;Număr_Locuri_Total;Număr_Locuri_Dizabilitați;Tip_Parcare;Acces_Parcare;Observații;Cartier
+Parcarea Bega;"Bulevardul Eroilor Nr. 10, Timișoara";45.7572;21.2330;90;120;8;"Subterană";Da;"Parcare modernă, supravegheată 24/7";Cetate
+Parcarea Cetate;"Piața Unirii, Timișoara";45.7570;21.2320;92;80;6;"În aer liber";Da;"Acces apropiat de reperele istorice";Cetate
+Parcarea Iosefin;"Str. Gării Nr. 5, Timișoara";45.7590;21.2335;88;100;5;"Garaj";Da;"Parcare cu supraveghere, intrare automatizată";Iosefin
+Parcarea Elisabetin;"Bulevardul Primăriei Nr. 3, Timișoara";45.7565;21.2310;95;150;10;"Subterană";Da;"Lift de acces disponibil";Elisabetin
+Parcarea Fabric;"Str. Fabric Nr. 20, Timișoara";45.7600;21.2350;90;90;4;"În aer liber";Da;"Parcare de tip open space, acces facil";Fabric
+Parcarea Periferică A;"Str. Periferică Nr. 50, Timișoara";45.7520;21.2400;85;200;12;"Garaj";Da;"Parcare extinsă, cu acces pentru autobuze";Periferie
+Parcarea Iulius Mall;"Calea Dorobanților 7, Timișoara";45.7540;21.2405;93;300;20;"Subterană";Da;"Parcare dedicată mall-ului, acces facil";Cetate
+Parcarea Gara Timișoara;"Str. Gării Nr. 1, Timișoara";45.7595;21.2340;89;130;8;"În aer liber";Da;"Proximitate cu stația de tren, supraveghere video";Iosefin
+Parcarea Complexului Cultural;"Str. Culturală Nr. 8, Timișoara";45.7578;21.2325;94;70;5;"În aer liber";Da;"Aflată lângă complexul cultural, acces pietonal";Elisabetin
+Parcarea Spital Clinic;"Str. Spitalului Nr. 2, Timișoara";45.7585;21.2335;92;110;10;"Garaj";Da;"Parcare dedicată spitalului, cu lift de acces";Fabric
+Parcarea Teatrului Național;"Str. Marasesti Nr. 2, Timișoara";45.7579;21.2322;91;60;4;"În aer liber";Da;"Acces aproape de teatre, locuri bine marcate";Cetate
+Parcarea Hotelului Continental;"Str. Iancu Văcărescu Nr. 18, Timișoara";45.7582;21.2328;93;140;7;"Garaj";Da;"Acces direct la hotel, spațiu bine iluminat";Iosefin
+Parcarea City Mall;"Str. Regele Ferdinand I Nr. 40, Timișoara";45.7580;21.2330;90;250;15;"Subterană";Da;"Lifturi multiple, acces complet pentru cumpărături";Elisabetin
+Parcarea City Life;"Str. Republicii Nr. 9, Timișoara";45.7577;21.2325;92;80;6;"Garaj";Da;"Parcare dedicată complexului modern, acces facil";Fabric
+Parcarea Spital Clinic 2;"Str. Eroilor Nr. 30, Timișoara";45.7588;21.2333;91;150;12;"Subterană";Da;"Parcare subterană, acces modernizat pentru dizabili";Periferie
+Parcarea Palatului Culturii;"Piața Victoriei, Timișoara";45.7573;21.2322;92;75;5;"În aer liber";NA;"Acces aproape de Palatul Culturii, supraveghere constantă";Cetate
+Parcarea Spital Clinic Județean;"Str. Spitalului Nr. 8, Timișoara";45.7580;21.2338;90;180;14;"Garaj";Da;"Parcare extinsă, pentru spitale, acces complet";Iosefin
+Parcarea Mall Plaza;"Calea Dorobanților Nr. 15, Timișoara";45.7575;21.2340;93;220;16;"Subterană";Da;"Parcare modernă, dedicată centrului comercial; lifturi multiple";Elisabetin
+Parcarea Universitară;"Str. Universității Nr. 5, Timișoara";45.7583;21.2332;91;100;8;"Garaj";Da;"Acces la campus, facilități educaționale adaptate";Fabric
+Parcarea Mall 2;"Str. Regele Ferdinand I Nr. 45, Timișoara";45.7586;21.2335;92;260;18;"Subterană";Da;"Lifturi multiple, parcare dedicată mall-ului";Periferie
+Parcarea Centrală;"Piața Unirii, Timișoara";45.7574;21.2323;92;95;6;"În aer liber";Da;"Parcarea centrală, acces direct la centru";Cetate
+Parcarea Gara de Nord;"Str. Gării Nr. 3, Timișoara";45.7592;21.2340;89;105;7;"Garaj";Da;"Acces facil, supraveghere 24/7";Iosefin
+Parcarea Complexului Administrativ;"Str. Admin Nr. 10, Timișoara";45.7587;21.2327;94;85;5;"În aer liber";Da;"Acces la clădirile administrative";Elisabetin
+Parcarea Hotelului Royal;"Str. Brașov Nr. 30, Timișoara";45.7589;21.2330;93;130;8;"Garaj";Da;"Acces direct la hotel, lifturi moderne";Fabric
+Parcarea Complexului Comercial;"Str. Comercială Nr. 5, Timișoara";45.7590;21.2331;92;210;12;"Subterană";Da;"Parcare pentru complex comercial, supraveghere video";Periferie
+Parcarea Spitalului de Urgență;"Str. Urgență Nr. 2, Timișoara";45.7585;21.2332;90;160;10;"Garaj";Da;"Acces rapid, dedicată spitalelor";Cetate
+Parcarea Teatrului German;"Str. Marasesti Nr. 4, Timișoara";45.7582;21.2329;91;70;4;"În aer liber";Da;"Acces facil, lângă teatru";Iosefin
+Parcarea Mall Plaza 2;"Calea Dorobanților Nr. 20, Timișoara";45.7583;21.2330;93;240;17;"Subterană";Da;"Lifturi multiple, acces complet";Elisabetin
+Parcarea Complexului Rezidențial;"Str. Rezidențială Nr. 8, Timișoara";45.7580;21.2325;92;150;10;"Garaj";Da;"Parcare dedicată complexului rezidențial, acces facil";Fabric
+Parcarea Universitară 2;"Str. Universității Nr. 8, Timișoara";45.7584;21.2327;91;110;8;"Garaj";Da;"Acces la campus, lift și rampe";Periferie

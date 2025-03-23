@@ -1,0 +1,89 @@
+Nume_Locație;Adresă;Latitudine;Longitudine;Tip_Locație;Acces_Locomotor;Toaletă_Dedicată;Clădire_Mai_Multe_Niveluri;Lift_Disponibil;Alte_Observații;Cartier;Cuisine_Type
+Palatul Culturii;"Piața Victoriei, Timișoara";45.7570;21.2320;Palat;Da;Da;Da;Da;Interior restaurat, facilități moderne, acces complet;Cetate;N/A
+Huniade – Castelul Banatului;"Cetate, Timișoara";45.7540;21.2270;Muzeu;Da;Da;Da;Da;Muzeu istoric în incinta castelului, acces cu rampă;Cetate;N/A
+Muzeul de Artă Timișoara;"Piața Unirii 1, Timișoara";45.7580;21.2325;Muzeu;Da;Da;Da;Da;Tip: de Artă;Iosefin;N/A
+Biserica Mitropolitană;"Piața Victoriei, Timișoara";45.7575;21.2322;Biserică;Nu;Nu;Nu;NA;Acces parțial din cauza structurii istorice;Elisabetin;N/A
+Sinagoga din Fabric;"Str. Liviu Rebreanu Nr. 15, Timișoara";45.7590;21.2330;Sinagogă;Nu;Nu;Nu;NA;Acces dificil, structură istorică;Fabric;N/A
+Casa Brück;"Str. Eroilor Nr. 10, Timișoara";45.7585;21.2328;Palat;Da;Da;Da;Nu;Fără lift, acces prin rampă;Cetate;N/A
+Teatrul Național Timișoara;"Str. Marasesti 2, Timișoara";45.7578;21.2323;Instituție Culturală;Da;Da;Da;Da;Acces facil, toaletă dedicată;Cetate;N/A
+Teatrul German de Stat;"Str. Marasesti 4, Timișoara";45.7579;21.2324;Instituție Culturală;Da;Da;Da;Da;Acces facil, organizare de evenimente culturale;Iosefin;N/A
+Opera Națională Română;"Piața Victoriei 2, Timișoara";45.7577;21.2326;Instituție Culturală;Da;Da;Da;Da;Acces complet, lift disponibil;Elisabetin;N/A
+Muzeul Național al Banatului;"Castelul Huniade, Cetate, Timișoara";45.7545;21.2275;Muzeu;Da;Da;Da;Da;Tip: Istoric;Cetate;N/A
+Palatul de Justiție;"Str. Eroilor Nr. 20, Timișoara";45.7582;21.2320;Clădire Administrativă;Da;Da;Da;Da;Lift modern, rampe de acces;Iosefin;N/A
+Hotelul Regina;"Str. Brașov Nr. 25, Timișoara";45.7588;21.2332;Hotel;Da;Da;Da;Da;Camere adaptate, baie accesibilă;Elisabetin;N/A
+Restaurantul Da Vinci;"Str. Nicolae Titulescu Nr. 18, Timișoara";45.7590;21.2335;Restaurant;Da;Nu;Nu;NA;Tip: Italian;Fabric;Italian
+Restaurantul Bistro La Plac;"Str. Unirii Nr. 12, Timișoara";45.7587;21.2330;Restaurant;Da;Nu;Nu;NA;Tip: Bistro;Cetate;Bistro
+Clădirea Administrativă Primăria;"Bulevardul Revoluției din 1989 Nr. 1, Timișoara";45.7573;21.2321;Clădire Administrativă;Da;Da;Da;Da;Lift modern, rampe de acces;Cetate;N/A
+Clădirea de Birouri Lloyd;"Str. Victoriei Nr. 5, Timișoara";45.7576;21.2324;Clădire de Birouri;Da;Da;Da;Da;Lift rapid, facilități moderne;Iosefin;N/A
+Centru Comercial Iulius Mall;"Calea Dorobanților 7, Timișoara";45.7568;21.2338;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, parcare adaptată;Elisabetin;N/A
+Parcul Botanic;"Str. Botanica Nr. 1, Timișoara";45.7548;21.2350;Parc Public;Da;Da;Nu;NA;Trasee pavate, zone de relaxare;Fabric;N/A
+Liceul "Ion Creangă";"Str. Ion Creangă Nr. 3, Timișoara";45.7570;21.2328;Școală/Universitate;Da;Da;Da;Da;Lift și rampe disponibile;Cetate;N/A
+Complexul Modern "City Life";"Str. Republicii Nr. 9, Timișoara";45.7580;21.2330;Complex Modern;Da;Da;Da;Da;Lifturi multiple, spații verzi integrate;Iosefin;N/A
+Spitalul Clinic Judetean;"Str. Eroilor Nr. 30, Timișoara";45.7592;21.2335;Instituție Medicală;Da;Da;Da;Da;Acces complet, facilități moderne;Elisabetin;N/A
+Hotelul Continental;"Str. General Ion Dragalina Nr. 12, Timișoara";45.7584;21.2327;Hotel;Da;Da;Da;Da;Camere adaptate, acces complet;Fabric;N/A
+Restaurantul "Gusturi Banatene";"Str. Anton Seiller Nr. 5, Timișoara";45.7586;21.2329;Restaurant;Da;Nu;Nu;NA;Tip: French;Periferie;French
+Palatul "Meridian";"Bulevardul Regele Ferdinand I Nr. 35, Timișoara";45.7587;21.2331;Palat;Da;Da;Da;Da;Interior restaurat, facilități moderne;Cetate;N/A
+Biblioteca Centrală "Eugen Todoran";"Str. Nicolae Titulescu Nr. 3, Timișoara";45.7589;21.2333;Instituție Culturală;Da;Da;Da;Da;Lift și rampe disponibile;Iosefin;N/A
+Casa de Cultură "Brâncuși";"Str. Constantin Diaconovici Loga Nr. 10, Timișoara";45.7590;21.2334;Instituție Culturală;Da;Da;Nu;NA;Acces pietonal, rampă la intrare;Elisabetin;N/A
+Grădina Publică "Roses Park";"Bulevardul Eroilor, Timișoara";45.7565;21.2340;Parc Public;Da;Da;Nu;NA;Trasee pavate, zone de odihnă;Fabric;N/A
+Școala Profesională "Industria Textilă";"Str. Plevnei Nr. 15, Timișoara";45.7572;21.2325;Școală/Universitate;Da;Da;Da;Da;Lift modern, acces complet;Periferie;N/A
+Complexul "Metro Office";"Bulevardul 3 August 1919 Nr. 10, Timișoara";45.7578;21.2326;Clădire de Birouri;Da;Da;Da;Da;Lift modern, acces complet;Cetate;N/A
+Hotelul "Grand Palace";"Str. Ion Luca Caragiale Nr. 22, Timișoara";45.7583;21.2322;Hotel;Da;Da;Da;Da;Servicii complete, acces facil;Iosefin;N/A
+Restaurantul "Deliciu Banatean";"Str. Alba Iulia Nr. 17, Timișoara";45.7586;21.2328;Restaurant;Da;Nu;Nu;NA;Tip: Mexican;Elisabetin;Mexican
+Clubul de Noapte "Eclipse";"Str. General Ion Dragalina Nr. 50, Timișoara";45.7575;21.2330;Complex Modern;Nu;Da;Da;Da;Acces limitat, dar cu lift;Fabric;N/A
+Biblioteca "Armonia";"Str. Nicolae Titulescu Nr. 7, Timișoara";45.7580;21.2323;Instituție Culturală;Da;Da;Da;Da;Acces complet, rampe și lift;Periferie;N/A
+Casa de Cultură "Inspirație";"Str. 1 Decembrie 1918 Nr. 7, Timișoara";45.7582;21.2325;Instituție Culturală;Da;Da;Nu;NA;Acces pietonal, rampă la intrare;Cetate;N/A
+Teatrul de Păpuși "Merlin";"Str. Dr. Gheorghe Marinescu Nr. 7, Timișoara";45.7584;21.2327;Instituție Culturală;Da;Da;Da;Da;Lift pentru boxe, acces facil;Iosefin;N/A
+Hotelul "Continental";"Str. Iancu Văcărescu Nr. 18, Timișoara";45.7587;21.2330;Hotel;Da;Da;Da;Da;Camere adaptate, acces complet;Elisabetin;N/A
+Restaurantul "Delicii Urbane";"Str. Eroilor Nr. 14, Timișoara";45.7589;21.2332;Restaurant;Da;Nu;Nu;NA;Tip: Asian;Fabric;Asian
+Complex Comercial "Bega Plaza";"Str. 16 Decembrie 1989 Nr. 100, Timișoara";45.7591;21.2335;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, acces complet;Cetate;N/A
+Casa "Heritage";"Str. Gheorghe Lazăr Nr. 8, Timișoara";45.7593;21.2337;Palat;Da;Da;Da;Nu;Acces cu rampă, fără lift;Iosefin;N/A
+Complexul "City Life";"Str. Nicolae Titulescu Nr. 12, Timișoara";45.7595;21.2339;Complex Modern;Da;Da;Da;Da;Acces complet, lifturi și rampe;Elisabetin;N/A
+Palatul "Meridian";"Bulevardul Regele Ferdinand I Nr. 35, Timișoara";45.7597;21.2341;Palat;Da;Da;Da;Da;Interior istoric, acces modernizat;Fabric;N/A
+Institutul Cultural "Lumina";"Str. Miron Costin Nr. 3, Timișoara";45.7599;21.2343;Instituție Culturală;Da;Da;Nu;NA;Acces pietonal, rampă la intrare;Periferie;N/A
+Teatrul "Noua Scenă";"Str. Prof. Dionisie Linția Nr. 6, Timișoara";45.7600;21.2345;Instituție Culturală;Da;Da;Da;Da;Lift pentru boxe, acces complet;Cetate;N/A
+Hotelul "Imperial";"Str. Regele Carol I Nr. 30, Timișoara";45.7573;21.2324;Hotel;Da;Da;Da;Da;Lift modern, camere adaptate;Iosefin;N/A
+Restaurantul "Bistro 21";"Str. Carol Telbisz Nr. 21, Timișoara";45.7574;21.2326;Restaurant;Da;Nu;Nu;NA;Tip: Bistro;Elisabetin;Bistro
+Clădirea Administrativă "Consiliul Local";"Str. Gheorghe Barițiu Nr. 4, Timișoara";45.7575;21.2328;Clădire Administrativă;Da;Da;Da;Da;Lift modern, acces complet;Fabric;N/A
+Palatul "Europa";"Bulevardul 3 August 1919 Nr. 15, Timișoara";45.7576;21.2329;Palat;Da;Da;Da;Da;Interior istoric, acces modernizat;Periferie;N/A
+Instituția de Învățământ "Politehnica";"Str. Matei Corvin Nr. 12, Timișoara";45.7577;21.2330;Școală/Universitate;Da;Da;Da;Da;Lift disponibil, acces complet;Cetate;N/A
+Complexul "Urban Life";"Str. Johann Wolfgang Von Goethe Nr. 15, Timișoara";45.7578;21.2331;Complex Modern;Da;Da;Da;Da;Acces complet, parcare adaptată;Iosefin;N/A
+Centru Medical "MedPlus";"Str. Ion Mihalache Nr. 10, Timișoara";45.7579;21.2332;Instituție Medicală;Da;Da;Da;Da;Acces complet, lift și rampe;Elisabetin;N/A
+Clădire Comercială "Market Center";"Str. Anton Pann Nr. 8, Timișoara";45.7580;21.2333;Centru Comercial;Da;Da;Da;Da;Lift modern, acces complet;Fabric;N/A
+Casa de Cultură "Inspirație 2";"Str. 1 Decembrie 1918 Nr. 7, Timișoara";45.7581;21.2334;Instituție Culturală;Da;Da;Nu;NA;Acces pietonal, rampă la intrare;Periferie;N/A
+Teatrul de Păpuși "Minunat";"Str. Bisericii Nr. 3, Timișoara";45.7582;21.2335;Instituție Culturală;Da;Da;Da;Da;Lift pentru boxe, acces adaptat;Cetate;N/A
+Palatul "Classique";"Str. Prof. Dionisie Linția Nr. 5, Timișoara";45.7583;21.2336;Palat;Da;Da;Da;NA;Acces cu rampă, fără lift;Iosefin;N/A
+Centru Comercial "City Mall";"Str. Regele Ferdinand I Nr. 40, Timișoara";45.7584;21.2337;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, acces complet;Elisabetin;N/A
+Teatrul de Operă "Harmonia";"Str. Johann Wolfgang Von Goethe Nr. 8, Timișoara";45.7585;21.2338;Instituție Culturală;Da;Da;Da;Da;Acces facil, toaletă dedicată;Fabric;N/A
+Restaurantul "Bistro La Rază";"Str. Carol Telbisz Nr. 21, Timișoara";45.7586;21.2339;Restaurant;Da;Nu;Nu;NA;Tip: Bistro;Periferie;Bistro
+Hotelul "Imperial 2";"Str. Regele Carol I Nr. 30, Timișoara";45.7587;21.2340;Hotel;Da;Da;Da;Da;Lift modern, camere adaptate;Cetate;N/A
+Restaurantul "Gastronomie Banatene 2";"Str. Anton Seiller Nr. 5, Timișoara";45.7588;21.2341;Restaurant;Da;Nu;Nu;NA;Tip: Mexican;Iosefin;Mexican
+Clădirea Administrativă "Primăria 2";"Bulevardul Revoluției din 1989 Nr. 1, Timișoara";45.7589;21.2342;Clădire Administrativă;Da;Da;Da;Da;Lift modern, rampe și acces complet;Elisabetin;N/A
+Clădirea de Birouri "Lloyd 2";"Str. Victoriei Nr. 5, Timișoara";45.7590;21.2343;Clădire de Birouri;Da;Da;Da;Da;Lift rapid, facilități moderne;Fabric;N/A
+Centru Comercial "Iulius Mall 2";"Calea Dorobanților 7, Timișoara";45.7591;21.2344;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, parcare adaptată;Periferie;N/A
+Parcul Public "Botanic 2";"Str. Botanica Nr. 1, Timișoara";45.7592;21.2345;Parc Public;Da;Da;Nu;NA;Trasee pavate, zone de relaxare;Cetate;N/A
+Școala/Universitatea "Ion Creangă 2";"Str. Ion Creangă Nr. 3, Timișoara";45.7593;21.2346;Școală/Universitate;Da;Da;Da;Da;Lift și rampe disponibile;Iosefin;N/A
+Complexul Modern "City Life 2";"Str. Republicii Nr. 9, Timișoara";45.7594;21.2347;Complex Modern;Da;Da;Da;Da;Lifturi multiple, spații verzi integrate;Elisabetin;N/A
+Instituția Medicală "Spital Clinic";"Str. Eroilor Nr. 30, Timișoara";45.7595;21.2348;Instituție Medicală;Da;Da;Da;Da;Acces complet, lift și rampe;Fabric;N/A
+Hotelul "Royal Timișoara";"Str. Brașov Nr. 25, Timișoara";45.7596;21.2349;Hotel;Da;Da;Da;Da;Camere adaptate, acces complet;Periferie;N/A
+Restaurantul "Bistro La Gust";"Str. Anton Seiller Nr. 7, Timișoara";45.7597;21.2350;Restaurant;Da;Nu;Nu;NA;Tip: Asian;Cetate;Asian
+Clădirea Administrativă "Consiliul Local 2";"Str. Gheorghe Barițiu Nr. 4, Timișoara";45.7598;21.2351;Clădire Administrativă;Da;Da;Da;Da;Lift modern, acces complet;Iosefin;N/A
+Clădirea de Birouri "Office Park";"Str. Iancu Văcărescu Nr. 20, Timișoara";45.7599;21.2352;Clădire de Birouri;Da;Da;Da;Da;Lift rapid, facilități moderne;Elisabetin;N/A
+Centru Comercial "City Plaza";"Str. Regele Ferdinand I Nr. 40, Timișoara";45.7600;21.2353;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, acces complet;Fabric;N/A
+Parcul Public "Roses Park 2";"Bulevardul Eroilor, Timișoara";45.7570;21.2350;Parc Public;Da;Da;Nu;NA;Trasee pavate, zone de relaxare;Periferie;N/A
+Școala/Universitatea "Politehnica 2";"Str. Matei Corvin Nr. 12, Timișoara";45.7571;21.2351;Școală/Universitate;Da;Da;Da;Da;Lift și rampe disponibile;Cetate;N/A
+Complexul Modern "Urban Life 3";"Str. Johann Wolfgang Von Goethe Nr. 15, Timișoara";45.7572;21.2352;Complex Modern;Da;Da;Da;Da;Lifturi multiple, spații verzi integrate;Iosefin;N/A
+Instituția Medicală "MedPlus 2";"Str. Ion Mihalache Nr. 10, Timișoara";45.7573;21.2353;Instituție Medicală;Da;Da;Da;Da;Acces complet, facilități moderne;Elisabetin;N/A
+Muzeul "Istorie 2";"Piața Unirii 1, Timișoara";45.7574;21.2354;Muzeu;Da;Da;Da;Da;Tip: Istoric, exponate: documente și artefacte;Fabric;N/A
+Palatul "Culturii 2";"Piața Victoriei, Timișoara";45.7575;21.2355;Palat;Da;Da;Da;Da;Interior restaurat, facilități moderne;Periferie;N/A
+Restaurantul "Bistro La Rază 2";"Str. Carol Telbisz Nr. 21, Timișoara";45.7576;21.2356;Restaurant;Da;Nu;Nu;NA;Tip: Bistro;Cetate;Bistro
+Clădirea Administrativă "Primăria 3";"Bulevardul Revoluției din 1989 Nr. 1, Timișoara";45.7577;21.2357;Clădire Administrativă;Da;Da;Da;Da;Lift modern, acces complet;Iosefin;N/A
+Clădirea de Birouri "Lloyd 3";"Str. Victoriei Nr. 5, Timișoara";45.7578;21.2358;Clădire de Birouri;Da;Da;Da;Da;Lift rapid, facilități moderne;Elisabetin;N/A
+Centru Comercial "Iulius Mall 3";"Calea Dorobanților 7, Timișoara";45.7579;21.2359;Centru Comercial;Da;Da;Da;Da;Lifturi multiple, parcare adaptată;Fabric;N/A
+Parcul Public "Botanic 3";"Str. Botanica Nr. 1, Timișoara";45.7580;21.2360;Parc Public;Da;Da;Nu;NA;Trasee pavate, zone de relaxare;Periferie;N/A
+Școala/Universitatea "Ion Creangă 3";"Str. Ion Creangă Nr. 3, Timișoara";45.7581;21.2361;Școală/Universitate;Da;Da;Da;Da;Lift și rampe disponibile;Cetate;N/A
+Complexul Modern "City Life 4";"Str. Republicii Nr. 9, Timișoara";45.7582;21.2362;Complex Modern;Da;Da;Da;Da;Lifturi multiple, spații verzi integrate;Iosefin;N/A
+Instituția Medicală "Spital Clinic 2";"Str. Eroilor Nr. 30, Timișoara";45.7583;21.2363;Instituție Medicală;Da;Da;Da;Da;Acces complet, facilități moderne;Elisabetin;N/A
+Muzeul "Artă 2";"Piața Unirii 1, Timișoara";45.7584;21.2364;Muzeu;Da;Da;Da;Da;Tip: de Artă, exponate: picturi și sculpturi;Fabric;N/A
+Palatul "Culturii 3";"Piața Victoriei, Timișoara";45.7585;21.2365;Palat;Da;Da;Da;Da;Interior restaurat, facilități moderne;Periferie;N/A
+Restaurantul "Deliciu Banatean 2";"Str. Alba Iulia Nr. 17, Timișoara";45.7586;21.2366;Restaurant;Da;Nu;Nu;NA;Tip: Mexican;Cetate;Mexican

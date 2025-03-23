@@ -1,0 +1,26 @@
+Nume_Toaletă;Adresă;Latitudine;Longitudine;Altitudine;Număr_Sanitar_Total;Număr_Sanitar_Disabilitați;Tip_Toaletă;Acces_Toaletă;Observații;Cartier
+Toaleta Publică Piața Unirii;"Piața Unirii, Timișoara";45.7580;21.2320;92;8;2;Indoor;Da;Curățenie excelentă, iluminare adecvată, facilități pentru scaune de rotile;Cetate
+Toaleta Publică Piața Victoriei;"Piața Victoriei, Timișoara";45.7575;21.2322;91;10;3;Indoor;Da;Situată în incinta Palatului Culturii, acces adaptat;Cetate
+Toaleta Publică Gara Timișoara;"Str. Gării Nr. 3, Timișoara";45.7590;21.2335;89;6;1;Indoor;Da;Acces apropiat de stația de tren, curățenie medie;Iosefin
+Toaleta Publică Parcul Rozelor;"Parcul Rozelor, Timișoara";45.7568;21.2340;90;4;1;Outdoor;Da;Acces pietonal, gratuită, amplasată în parc;Fabric
+Toaleta Publică Iulius Mall;"Calea Dorobanților 7, Timișoara";45.7540;21.2400;93;12;4;Indoor;Da;Facilități moderne, acces complet pentru clienți;Cetate
+Toaleta Publică City Mall;"Str. Regele Ferdinand I Nr. 40, Timișoara";45.7580;21.2330;92;15;5;Indoor;Da;Lifturi multiple, parcare integrată, acces facil;Elisabetin
+Toaleta Publică Spital Clinic;"Str. Spitalului Nr. 2, Timișoara";45.7585;21.2335;90;8;3;Indoor;Da;Facilități dedicate spitalului, adaptată pentru dizabilitați;Fabric
+Toaleta Publică Piața Libertății;"Piața Libertății, Timișoara";45.7573;21.2328;91;7;2;Indoor;Da;Acces facil în zona centrală, amplasată lângă monumente;Cetate
+Toaleta Publică Gara de Nord;"Str. Gării Nr. 1, Timișoara";45.7592;21.2340;89;6;1;Indoor;Da;Supraveghere video, acces rapid;Iosefin
+Toaleta Publică Complex Cultural;"Str. Culturală Nr. 8, Timișoara";45.7578;21.2325;94;5;2;Indoor;Da;Facilități moderne, amplasată lângă complexul cultural;Elisabetin
+Toaleta Publică Teatrul Național;"Str. Marasesti Nr. 2, Timișoara";45.7579;21.2322;91;7;2;Indoor;Da;Acces facil, lângă teatre;Cetate
+Toaleta Publică Hotel Continental;"Str. Iancu Văcărescu Nr. 18, Timișoara";45.7582;21.2328;93;9;3;Indoor;Da;Acces direct la hotel, facilități moderne;Iosefin
+Toaleta Publică Mall Plaza;"Str. Dorobanților Nr. 15, Timișoara";45.7584;21.2330;93;11;4;Indoor;Da;Lifturi multiple, spațiu modern, acces complet;Elisabetin
+Toaleta Publică Universitară;"Str. Universității Nr. 5, Timișoara";45.7583;21.2332;91;10;4;Indoor;Da;Acces la campus, lift și rampe disponibile;Fabric
+Toaleta Publică Centrală;"Piața Unirii, Timișoara";45.7574;21.2323;92;8;2;Indoor;Da;Amplasată în centrul orașului, acces facil;Cetate
+Toaleta Publică Spital Urgență;"Str. Urgență Nr. 2, Timișoara";45.7585;21.2334;90;9;3;Indoor;Da;Acces rapid, dedicată spitalelor;Iosefin
+Toaleta Publică Complex Administrativ;"Str. Admin Nr. 10, Timișoara";45.7587;21.2336;94;7;2;Indoor;Da;Acces direct la clădirile administrative;Elisabetin
+Toaleta Publică Hotel Royal;"Str. Brașov Nr. 30, Timișoara";45.7589;21.2338;93;8;3;Indoor;Da;Acces direct la hotel, lifturi moderne;Fabric
+Toaleta Publică Complex Comercial;"Str. Comercială Nr. 5, Timișoara";45.7590;21.2339;92;10;3;Indoor;Da;Acces facil, supraveghere video, modernă;Periferie
+Toaleta Publică Spital Clinic 2;"Str. Eroilor Nr. 30, Timișoara";45.7588;21.2337;91;12;4;Indoor;Da;Subterană, acces modernizat pentru dizabilitați;Cetate
+Toaleta Publică "Mall 2";"Str. Regele Ferdinand I Nr. 45, Timișoara";45.7586;21.2335;92;14;5;Indoor;Da;Lifturi multiple, acces complet, spațiu generos;Iosefin
+Toaleta Publică "City Plaza";"Str. Regele Ferdinand I Nr. 40, Timișoara";45.7584;21.2333;92;10;3;Indoor;Da;Acces modern, iluminare bună, curățenie;Elisabetin
+Toaleta Publică "Parc Central";"Piața Libertății, Timișoara";45.7577;21.2329;91;6;2;Indoor;Da;Amplasată în zona centrală, acces facil;Cetate
+Toaleta Publică "Universitară 2";"Str. Universității Nr. 8, Timișoara";45.7582;21.2331;91;11;4;Indoor;Da;Lift și rampe, facilități educaționale adaptate;Fabric
+Toaleta Publică "Mall Plaza 2";"Calea Dorobanților Nr. 20, Timișoara";45.7580;21.2330;93;13;5;Indoor;Da;Lifturi multiple, parcare modernă, acces complet;Periferie
